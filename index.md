@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Prof Feynman's Messenger Series
+Microsoft's Bill Gates got ownership of this series for a research project called [Project Tuva](microsoft.com/en-us/research/project/tuva-richard-feynman/) from the Cornell University.
 
-You can use the [editor on GitHub](https://github.com/madhavanmalolan/prof-feynman-messenger-series/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Project Tuva has been discontinued and the website not maintained. But the lectures are pure gold - I thought it should be accessible to you. Please note that the content is still owned by Microsoft and hence will play on their Azure Player. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Law of Gravitation — An Example of Physical Law](ch01.md)
+2. [The Relation of Mathematics and Physics](ch02.md)
+3. [The Great Conservation Principles](ch03.md)
+4. [Symmetry in Physical Law](ch04.md)
+5. [The Distinction of the Past and Future](ch05.md)
+6. [Probability and Uncertainty – The Quantum Mechanical View of Nature](ch06.md)
+7. [Seeking New Laws](ch07.md)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madhavanmalolan/prof-feynman-messenger-series/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Enjoy!
